@@ -110,7 +110,7 @@
                     <option value="Apel">Apel</option>
                     <option value="Anggur">Anggur</option>
                     <option value="Salak">Salak</option>
-                    <option value="Mangga">Mangga
+                    <option value="Mangga
                 </select>
             </td>
             <td><input type="text" name="harga3" class="input-harga" placeholder="Masukkan Harga"></td>
